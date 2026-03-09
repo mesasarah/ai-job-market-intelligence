@@ -62,7 +62,7 @@ This project demonstrates **data engineering, backend API development, and front
 
 # 🎥 Live Demo
 
-![Demo](screenshots/demo.gif)
+![Demo](demo.mp4)
 
 # 🧠 System Architecture
 
